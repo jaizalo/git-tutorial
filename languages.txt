@@ -1,6 +1,11 @@
-Java
-Javascript
-C
-C++
-Python
-Pascal
+Lenguajes de programación:
+    Java
+    Javascript
+    C
+    C++
+    Python
+    Pascal
+    
+Idiomas:
+    Inglés
+    Valenciano
