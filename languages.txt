@@ -1,10 +1,10 @@
 Lenguajes de programación:
-    Java
-    Javascript
-    C
-    C++
-    Python
-    Pascal
+    Java - Alto
+    Javascript - Medio
+    C - Alto
+    C++ - Alto
+    Python - Bajo
+    Pascal - Obsoleto
     
 Idiomas:
     Inglés
